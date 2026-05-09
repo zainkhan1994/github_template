@@ -196,6 +196,16 @@ Repeatable playbooks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainkhan1994&theme=tokyonight&hide_border=true&background=020617&ring=22d3ee&fire=a78bfa&currStreakLabel=22d3ee" />
 
 </div>
+---
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/l0HlQiZu86Qa0IMEA/giphy.gif" width="35"/> 3D Contribution Matrix
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+
+</div>
+
 
 ---
 

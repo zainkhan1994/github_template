@@ -13,6 +13,10 @@
 <img src="https://img.shields.io/badge/Mode-Systems%20Thinking-312e81?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Focus-AI%20Infrastructure-0891b2?style=for-the-badge" />
 
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=zainkhan1994&color=0f172a&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
 ---
@@ -36,9 +40,10 @@ I design frameworks, dashboards, workflows, and AI-powered operating systems tha
 
 ```yaml
 identity:
-  name: Zain
+  name: Zain Khan
   role: Business Consultant
   archetype: AI Systems Architect
+  location: Digital Command Center
 
 mission:
   - structure complexity
@@ -73,11 +78,11 @@ current_mode:
 
 **Strategy, research, frameworks**
 
-Market analysis
-Business models
-Systems thinking
-Decision maps
-Root-cause analysis
+- Market analysis
+- Business models
+- Systems thinking
+- Decision maps
+- Root-cause analysis
 
 </td>
 <td align="center" width="33%">
@@ -86,11 +91,11 @@ Root-cause analysis
 
 **AI tools, workflows, dashboards**
 
-Automations
-Knowledge bases
-Dashboards
-Databases
-Digital infrastructure
+- Automations
+- Knowledge bases
+- Dashboards
+- Databases
+- Digital infrastructure
 
 </td>
 <td align="center" width="33%">
@@ -99,11 +104,11 @@ Digital infrastructure
 
 **Content, consulting, operations**
 
-Client systems
-Creator workflows
-Agency operations
-Community ecosystems
-Repeatable playbooks
+- Client systems
+- Creator workflows
+- Agency operations
+- Community ecosystems
+- Repeatable playbooks
 
 </td>
 </tr>
@@ -123,38 +128,42 @@ Repeatable playbooks
 
 ### <img src="https://media.giphy.com/media/3o85xIO33l7RlmLCC8/giphy.gif" width="35"/> AI Systems
 
-* AI agents and copilots
-* Prompt systems
-* Workflow automation
-* AI-assisted research
-* Human + AI collaboration
+- AI agents and copilots
+- Prompt systems & chains
+- Workflow automation
+- AI-assisted research
+- Human + AI collaboration
+- RAG systems
 
 ### <img src="https://media.giphy.com/media/l0HlDtKPoUJwXzQ3i/giphy.gif" width="35"/> Second Brain Design
 
-* Personal knowledge management
-* Life operating systems
-* File and data architecture
-* Expandable project maps
-* Knowledge retrieval systems
+- Personal knowledge management
+- Life operating systems
+- File and data architecture
+- Expandable project maps
+- Knowledge retrieval systems
+- Digital gardens
 
 </td>
 <td width="50%">
 
 ### <img src="https://media.giphy.com/media/l0HlQY9x8FZo0XO1i/giphy.gif" width="35"/> Consulting Infrastructure
 
-* Business process design
-* Operational audits
-* Client-facing dashboards
-* Strategy documentation
-* Scalable service delivery
+- Business process design
+- Operational audits
+- Client-facing dashboards
+- Strategy documentation
+- Scalable service delivery
+- Change management
 
 ### <img src="https://media.giphy.com/media/l0MYJuGuQEIrHqsm4/giphy.gif" width="35"/> Creator + Agency Systems
 
-* Content workflows
-* Brand positioning
-* Digital product systems
-* AI education media
-* Community building
+- Content workflows
+- Brand positioning
+- Digital product systems
+- AI education media
+- Community building
+- Creator economy ops
 
 </td>
 </tr>
@@ -166,18 +175,29 @@ Repeatable playbooks
 
 ## <img src="https://media.giphy.com/media/XF07JFMF3L5wK0BLDX/giphy.gif" width="40"/> Tech Constellation
 
-<img src="https://skillicons.dev/icons?i=python,github,vscode,figma,notion" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,react,nextjs,github,vscode,figma,notion,ai" />
 
 <br/>
 <br/>
+
+**AI & Automation:**
 
 <img src="https://img.shields.io/badge/OpenAI-020617?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude-3B0764?style=for-the-badge&color=7c3aed" />
 <img src="https://img.shields.io/badge/Gemini-0f172a?style=for-the-badge&logo=google&logoColor=22d3ee" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+
+**Knowledge & Data:**
+
 <img src="https://img.shields.io/badge/Notion-111827?style=for-the-badge&logo=notion&logoColor=white" />
 <img src="https://img.shields.io/badge/Airtable-075985?style=for-the-badge&logo=airtable&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+**Workflow Automation:**
+
 <img src="https://img.shields.io/badge/Make-581c87?style=for-the-badge" />
 <img src="https://img.shields.io/badge/n8n-0f172a?style=for-the-badge&logo=n8n&logoColor=fb923c" />
+<img src="https://img.shields.io/badge/Zapier-FF6D00?style=for-the-badge&logo=zapier&logoColor=white" />
 
 </div>
 
@@ -185,9 +205,13 @@ Repeatable playbooks
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/l0HlQiZu86Qa0IMEA/giphy.gif" width="35"/> GitHub Universe
+## <img src="https://media.giphy.com/media/l0HlQiZu86Qa0IMEA/giphy.gif" width="35"/> GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zainkhan1994&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22d3ee&icon_color=a78bfa&text_color=e2e8f0" />
+</div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zainkhan1994&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22d3ee&icon_color=a78bfa&text_color=e2e8f0&include_all_commits=true&count_private=true" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainkhan1994&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22d3ee&text_color=e2e8f0" />
 
@@ -196,22 +220,65 @@ Repeatable playbooks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainkhan1994&theme=tokyonight&hide_border=true&background=020617&ring=22d3ee&fire=a78bfa&currStreakLabel=22d3ee" />
 
 </div>
+
 ---
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/l0HlQiZu86Qa0IMEA/giphy.gif" width="35"/> 3D Contribution Matrix
+## <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="35"/> 3D Contribution Matrix
+
+The visual representation of my GitHub journey in 3D space:
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 
 </div>
 
+---
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/g9GWuqAf8MwTi/giphy.gif" width="35"/> Signal Map
+
+My work ecosystem visualized:
+
+```mermaid
+mindmap
+  root((Zain's Ecosystem))
+    AI Systems
+      Language Models
+      Agents & Automation
+      Prompt Engineering
+      Research Workflows
+      Knowledge Graphs
+    Consulting
+      Strategy Design
+      Systems Thinking
+      Process Optimization
+      Change Management
+      Operations
+    Second Brain
+      Knowledge Architecture
+      File Systems
+      Life Operating Systems
+      Project Mapping
+      Digital Gardens
+    Creator Mode
+      AI Education
+      Content Systems
+      Community Building
+      Digital Products
+      Agency Operations
+```
+
+</div>
 
 ---
 
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="35"/> Current Questline
+
+The path forward unfolds in stages:
 
 </div>
 
@@ -222,7 +289,10 @@ Repeatable playbooks
 ### <img src="https://media.giphy.com/media/l3q2K6YfParLw9QFa/giphy.gif" width="30"/> 01
 
 **Build**
+
 AI-powered life infrastructure
+
+*Create the systems that scale*
 
 </td>
 <td width="25%" align="center">
@@ -230,7 +300,10 @@ AI-powered life infrastructure
 ### <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="30"/> 02
 
 **Map**
-knowledge, tools, files, and systems
+
+Knowledge, tools, files, systems
+
+*Visualize the landscape*
 
 </td>
 <td width="25%" align="center">
@@ -238,7 +311,10 @@ knowledge, tools, files, and systems
 ### <img src="https://media.giphy.com/media/l0MYvKe3hxfHnl8Ew/giphy.gif" width="30"/> 03
 
 **Automate**
-repeatable business workflows
+
+Repeatable business workflows
+
+*Remove friction*
 
 </td>
 <td width="25%" align="center">
@@ -246,7 +322,10 @@ repeatable business workflows
 ### <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="30"/> 04
 
 **Scale**
-consulting, content, and community
+
+Consulting, content, community
+
+*Compound the impact*
 
 </td>
 </tr>
@@ -258,7 +337,11 @@ consulting, content, and community
 
 ## <img src="https://media.giphy.com/media/g9GWuqAf8MwTi/giphy.gif" width="35"/> Core Belief
 
-> **The future belongs to people who can transform complexity into systems.**
+> **The future belongs to people who can transform complexity into intelligent systems.**
+
+Systems don't build themselves. They require intentional design, continuous iteration, and a deep understanding of how information, tools, and people interact.
+
+My mission is to help organizations and individuals build these systems — turning scattered chaos into coherent, scalable intelligence.
 
 <br/>
 
@@ -270,25 +353,35 @@ consulting, content, and community
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/l0HlQpKAqGCRWlb97/giphy.gif" width="35"/> Connect
+## <img src="https://media.giphy.com/media/l0HlQpKAqGCRWlb97/giphy.gif" width="35"/> Connect & Collaborate
+
+I'm always interested in conversations about AI systems, digital architecture, and the future of work.
 
 <a href="https://linkedin.com/in/YOUR_LINK">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://x.com/YOUR_HANDLE">
-  <img src="https://img.shields.io/badge/X-020617?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/X-020617?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
 </a>
 <a href="https://youtube.com/@YOUR_CHANNEL">
-  <img src="https://img.shields.io/badge/YouTube-DC2626?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/YouTube-DC2626?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>
 <a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br/>
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:06b6d4,50:312e81,100:020617&section=footer" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=zainkhan1994&color=0f172a&style=flat-square" alt="Profile Views" />
 
 </div>
 

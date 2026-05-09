@@ -21,7 +21,7 @@
 <tr>
 <td width="58%" valign="top">
 
-# 🪐 About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrng815u/giphy.gif" width="30"/> About Me
 
 I'm **Zain** — a business consultant building at the intersection of **AI, systems thinking, knowledge architecture, and digital operations**.
 
@@ -61,7 +61,7 @@ current_mode:
 
 <div align="center">
 
-# 🌌 My Operating System
+## <img src="https://media.giphy.com/media/g9GWuqAf8MwTi/giphy.gif" width="35"/> My Operating System
 
 </div>
 
@@ -69,7 +69,7 @@ current_mode:
 <tr>
 <td align="center" width="33%">
 
-## 🧠 Think
+### <img src="https://media.giphy.com/media/l0HlNaQ9mHIQIHF7i/giphy.gif" width="40"/> Think
 
 **Strategy, research, frameworks**
 
@@ -82,7 +82,7 @@ Root-cause analysis
 </td>
 <td align="center" width="33%">
 
-## 🛠️ Build
+### <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="40"/> Build
 
 **AI tools, workflows, dashboards**
 
@@ -95,7 +95,7 @@ Digital infrastructure
 </td>
 <td align="center" width="33%">
 
-## 🚀 Scale
+### <img src="https://media.giphy.com/media/l0MYvKe3hxfHnl8Ew/giphy.gif" width="40"/> Scale
 
 **Content, consulting, operations**
 
@@ -113,7 +113,7 @@ Repeatable playbooks
 
 <div align="center">
 
-# 🧩 Areas I'm Building In
+## <img src="https://media.giphy.com/media/l0HlCaQ2L3o5GyWta/giphy.gif" width="35"/> Areas I'm Building In
 
 </div>
 
@@ -121,7 +121,7 @@ Repeatable playbooks
 <tr>
 <td width="50%">
 
-## 🤖 AI Systems
+### <img src="https://media.giphy.com/media/3o85xIO33l7RlmLCC8/giphy.gif" width="35"/> AI Systems
 
 * AI agents and copilots
 * Prompt systems
@@ -129,7 +129,7 @@ Repeatable playbooks
 * AI-assisted research
 * Human + AI collaboration
 
-## �� Second Brain Design
+### <img src="https://media.giphy.com/media/l0HlDtKPoUJwXzQ3i/giphy.gif" width="35"/> Second Brain Design
 
 * Personal knowledge management
 * Life operating systems
@@ -140,7 +140,7 @@ Repeatable playbooks
 </td>
 <td width="50%">
 
-## 📊 Consulting Infrastructure
+### <img src="https://media.giphy.com/media/l0HlQY9x8FZo0XO1i/giphy.gif" width="35"/> Consulting Infrastructure
 
 * Business process design
 * Operational audits
@@ -148,7 +148,7 @@ Repeatable playbooks
 * Strategy documentation
 * Scalable service delivery
 
-## 🎥 Creator + Agency Systems
+### <img src="https://media.giphy.com/media/l0MYJuGuQEIrHqsm4/giphy.gif" width="35"/> Creator + Agency Systems
 
 * Content workflows
 * Brand positioning
@@ -164,7 +164,7 @@ Repeatable playbooks
 
 <div align="center">
 
-# 🛰️ Tech Constellation
+## <img src="https://media.giphy.com/media/XF07JFMF3L5wK0BLDX/giphy.gif" width="40"/> Tech Constellation
 
 <img src="https://skillicons.dev/icons?i=python,github,vscode,figma,notion" />
 
@@ -185,7 +185,7 @@ Repeatable playbooks
 
 <div align="center">
 
-# 📊 GitHub Universe
+## <img src="https://media.giphy.com/media/l0HlQiZu86Qa0IMEA/giphy.gif" width="35"/> GitHub Universe
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zainkhan1994&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22d3ee&icon_color=a78bfa&text_color=e2e8f0" />
 
@@ -201,7 +201,7 @@ Repeatable playbooks
 
 <div align="center">
 
-# 🧭 Current Questline
+## <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="35"/> Current Questline
 
 </div>
 
@@ -209,7 +209,7 @@ Repeatable playbooks
 <tr>
 <td width="25%" align="center">
 
-## 01
+### <img src="https://media.giphy.com/media/l3q2K6YfParLw9QFa/giphy.gif" width="30"/> 01
 
 **Build**
 AI-powered life infrastructure
@@ -217,7 +217,7 @@ AI-powered life infrastructure
 </td>
 <td width="25%" align="center">
 
-## 02
+### <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="30"/> 02
 
 **Map**
 knowledge, tools, files, and systems
@@ -225,7 +225,7 @@ knowledge, tools, files, and systems
 </td>
 <td width="25%" align="center">
 
-## 03
+### <img src="https://media.giphy.com/media/l0MYvKe3hxfHnl8Ew/giphy.gif" width="30"/> 03
 
 **Automate**
 repeatable business workflows
@@ -233,7 +233,7 @@ repeatable business workflows
 </td>
 <td width="25%" align="center">
 
-## 04
+### <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="30"/> 04
 
 **Scale**
 consulting, content, and community
@@ -246,7 +246,7 @@ consulting, content, and community
 
 <div align="center">
 
-# 🧬 Core Belief
+## <img src="https://media.giphy.com/media/g9GWuqAf8MwTi/giphy.gif" width="35"/> Core Belief
 
 > **The future belongs to people who can transform complexity into systems.**
 
@@ -260,7 +260,7 @@ consulting, content, and community
 
 <div align="center">
 
-# 🔗 Connect
+## <img src="https://media.giphy.com/media/l0HlQpKAqGCRWlb97/giphy.gif" width="35"/> Connect
 
 <a href="https://linkedin.com/in/YOUR_LINK">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
